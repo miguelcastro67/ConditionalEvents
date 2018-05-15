@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalEvents.Lib", "ConditionalEvents.Lib\ConditionalEvents.Lib.csproj", "{ABA6F602-9BB5-42B4-8D87-5073C5EB44F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalEvent.Tester", "ConditionalEvent.Tester\ConditionalEvent.Tester.csproj", "{431E08E4-5657-4E4B-BB6D-ED95E5E4174B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalEvents.UsageTest", "ConditionalEvents.UsageTest\ConditionalEvents.UsageTest.csproj", "{982AA278-91E9-44E2-8446-AA8F26BCE821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431E08E4-5657-4E4B-BB6D-ED95E5E4174B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431E08E4-5657-4E4B-BB6D-ED95E5E4174B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431E08E4-5657-4E4B-BB6D-ED95E5E4174B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431E08E4-5657-4E4B-BB6D-ED95E5E4174B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982AA278-91E9-44E2-8446-AA8F26BCE821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982AA278-91E9-44E2-8446-AA8F26BCE821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982AA278-91E9-44E2-8446-AA8F26BCE821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982AA278-91E9-44E2-8446-AA8F26BCE821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA6F602-9BB5-42B4-8D87-5073C5EB44F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA6F602-9BB5-42B4-8D87-5073C5EB44F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA6F602-9BB5-42B4-8D87-5073C5EB44F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA6F602-9BB5-42B4-8D87-5073C5EB44F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
